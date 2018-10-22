@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe71e132-3f7b-46d2-b92f-a6ce1e20c111" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/InsertDeleteGetrandomO1380.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/ValidSudoku36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,42 +38,52 @@
     <session id="957796462">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="39" />
+          <entry key="java" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="39" />
+          <entry key="JAVA" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6107" />
+          <entry key="java" value="7260" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6107" />
+          <entry key="JAVA" value="7260" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/ValidSudoku36.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,6 +95,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>*</find>
+      <find>[&quot;</find>
+      <find>]</find>
+      <find>&quot;</find>
+      <find>cube</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/com/leetcode/FourSumII454.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/GroupAnagrams49.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/InsertDeleteGetrandomO1380.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/ValidSudoku36.java" />
       </list>
     </option>
   </component>
@@ -123,7 +138,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="749" />
     <option name="y" value="23" />
     <option name="width" value="931" />
@@ -135,6 +150,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,15 +182,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539915242350" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540179618318" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -190,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GroupAnagrams49">
+  <component name="RunManager" selected="Application.ValidSudoku36">
     <configuration name="CountPrimes204" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.CountPrimes204" />
       <module name="leetcode" />
@@ -243,8 +258,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionOfTwoArrays350" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.IntersectionOfTwoArrays350" />
+    <configuration name="ValidSudoku36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.ValidSudoku36" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -257,19 +272,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IntersectionOfTwoArrays350" />
       <item itemvalue="Application.HappyNumber202" />
       <item itemvalue="Application.CountPrimes204" />
       <item itemvalue="Application.FourSumII454" />
       <item itemvalue="Application.GroupAnagrams49" />
+      <item itemvalue="Application.ValidSudoku36" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidSudoku36" />
         <item itemvalue="Application.GroupAnagrams49" />
         <item itemvalue="Application.FourSumII454" />
         <item itemvalue="Application.CountPrimes204" />
         <item itemvalue="Application.HappyNumber202" />
-        <item itemvalue="Application.IntersectionOfTwoArrays350" />
       </list>
     </recent_temporary>
   </component>
@@ -293,16 +308,18 @@
       <workItem from="1539653427505" duration="1615000" />
       <workItem from="1539746858458" duration="6682000" />
       <workItem from="1539911913419" duration="2490000" />
+      <workItem from="1539915366216" duration="31000" />
+      <workItem from="1540171819535" duration="6208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33991000" />
+    <option name="totallyTimeSpent" value="40230000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="749" y="23" width="931" height="949" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="950" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23734534" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13431014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,16 +328,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32896304" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20808561" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="1.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39952436" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27229488" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2719715" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32818073" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32779098" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4990099" weight="0.24969475" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -463,9 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="595" selection-start-line="595" selection-end-line="595" />
-          <folding>
-            <element signature="e#23682#23683#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -504,13 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leetcode/GroupAnagrams49.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leetcode/InsertDeleteGetrandomO1380.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
@@ -520,6 +527,20 @@
             <element signature="e#893#894#0" expanded="true" />
             <element signature="e#910#911#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/GroupAnagrams49.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/ValidSudoku36.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
         </state>
       </provider>
     </entry>
