@@ -106,7 +106,7 @@ public class CopyListWithRandomPointer138 {
 				ptr = newNode.next;
 			}
 
-			ptr = head;
+			ptr = head; // 指针复原
 
 			// Now link the random pointers of the new nodes created.
 			// Iterate the newly created list and use the original nodes' random pointers,
@@ -116,9 +116,11 @@ public class CopyListWithRandomPointer138 {
 				ptr = ptr.next.next;
 			}
 
-			RandomListNode ptr_old_list = head;
-			RandomListNode ptr_new_list = head.next;
-			RandomListNode head_old = head.next;
+			// Unweave the linked list to get back the original linked list and the cloned list.
+			// i.e. A->A'->B->B'->C->C' would be broken to A->B->C and A'->B'->C'
+			RandomListNode ptr_old_list = head; // A->B->C
+			RandomListNode ptr_new_list = head.next; // A'->B'->C'
+			RandomListNode head_old = head.next; // 用于拷贝出来的指针
 			while (ptr_old_list != null) {
 				ptr_old_list.next = ptr_old_list.next.next;
 				ptr_new_list.next = (ptr_new_list.next != null) ? ptr_new_list.next.next : null;
