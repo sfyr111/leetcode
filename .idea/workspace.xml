@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe71e132-3f7b-46d2-b92f-a6ce1e20c111" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Array/BestTimeToBuyAndSellStockII122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Array/MajorityElement169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Array/MoveZeroes283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/HashTable/JewelsAndStones771.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/HashTable/SubarraySumEqualsK560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Array/BestTimeToBuyAndSellStock121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Array/MissingNumber268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Array/PascalsTriangle118.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/HashTable/MinimumWindowSubstring76.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/HashTable/MinimumWindowSubstring76.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,69 +40,54 @@
     <session id="957796462">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.8" value="5" />
-          <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="74" />
+          <entry key="java" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="74" />
+          <entry key="JAVA" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="java" value="15125" />
+          <entry key="java" value="16302" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15125" />
+          <entry key="JAVA" value="16302" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leetcode/Array/MoveZeroes283.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leetcode/Array/MajorityElement169.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/leetcode/Array/BestTimeToBuyAndSellStockII122.java">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/Array/PascalsTriangle118.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <state relative-caret-position="60">
+              <caret line="11" selection-start-line="11" selection-end-line="36" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -177,6 +159,9 @@
         <option value="$PROJECT_DIR$/src/com/leetcode/Array/MoveZeroes283.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/Array/MajorityElement169.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/Array/BestTimeToBuyAndSellStockII122.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/Array/MissingNumber268.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/Array/BestTimeToBuyAndSellStock121.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/Array/PascalsTriangle118.java" />
       </list>
     </option>
   </component>
@@ -192,11 +177,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="71" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="639" />
     <option name="y" value="23" />
-    <option name="width" value="1609" />
-    <option name="height" value="945" />
+    <option name="width" value="1041" />
+    <option name="height" value="943" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -234,7 +219,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542250522338" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542684719170" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -252,7 +237,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BestTimeToBuyAndSellStockII122">
+  <component name="RunManager" selected="Application.BestTimeToBuyAndSellStock121">
+    <configuration name="BestTimeToBuyAndSellStock121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.Array.BestTimeToBuyAndSellStock121" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BestTimeToBuyAndSellStockII122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.Array.BestTimeToBuyAndSellStockII122" />
       <module name="leetcode" />
@@ -268,19 +266,6 @@
     </configuration>
     <configuration name="FindAllAnaramsInAString438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.HashTable.FindAllAnaramsInAString438" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestSubstringWithoutRepeatingCharacters3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.HashTable.LongestSubstringWithoutRepeatingCharacters3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -319,19 +304,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters3" />
       <item itemvalue="Application.FindAllAnaramsInAString438" />
       <item itemvalue="Application.MinimumWindowSubstring76" />
       <item itemvalue="Application.MajorityElement169" />
       <item itemvalue="Application.BestTimeToBuyAndSellStockII122" />
+      <item itemvalue="Application.BestTimeToBuyAndSellStock121" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BestTimeToBuyAndSellStock121" />
         <item itemvalue="Application.BestTimeToBuyAndSellStockII122" />
         <item itemvalue="Application.MajorityElement169" />
         <item itemvalue="Application.MinimumWindowSubstring76" />
         <item itemvalue="Application.FindAllAnaramsInAString438" />
-        <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters3" />
       </list>
     </recent_temporary>
   </component>
@@ -367,12 +352,15 @@
       <workItem from="1541984564332" duration="7820000" />
       <workItem from="1542030999911" duration="4476000" />
       <workItem from="1542070559307" duration="2097000" />
-      <workItem from="1542246435857" duration="3614000" />
+      <workItem from="1542246435857" duration="3920000" />
+      <workItem from="1542334053084" duration="982000" />
+      <workItem from="1542457301753" duration="450000" />
+      <workItem from="1542679589445" duration="4732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97796000" />
+    <option name="totallyTimeSpent" value="104266000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -384,10 +372,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="945" extended-state="6" />
+    <frame x="639" y="23" width="1041" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.092796095" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15915915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -396,14 +384,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32896304" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21983273" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21916167" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36200717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32934132" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32934132" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2994012" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2982036" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3269461" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -423,18 +411,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/leetcode/Array/MajorityElement169.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -559,11 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="622" selection-start-line="622" selection-end-line="622" />
-          <folding>
-            <element signature="e#22821#22822#0" expanded="true" />
-            <element signature="e#118405#118406#0" expanded="true" />
-            <element signature="e#118444#118445#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,16 +647,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leetcode/array.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/array.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/Array/MajorityElement169.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="307">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -696,17 +665,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leetcode/Array/MajorityElement169.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/Array/MissingNumber268.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="320">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/Array/BestTimeToBuyAndSellStock121.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leetcode/Array/BestTimeToBuyAndSellStockII122.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        <state relative-caret-position="140">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/Array/PascalsTriangle118.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" selection-start-line="11" selection-end-line="36" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
